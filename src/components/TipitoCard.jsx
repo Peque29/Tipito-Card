@@ -2,7 +2,6 @@
 
 // 1 - Añadir CSS a este componente, fijarse como se aplica en app.jsx con el css, y hacer lo mismo aca,
 // Tendria que ser un archivo en la carpeta de componentes 
-
 // 2 - Convertir app.jsx en una pagina donde se pueda ver a tipito con una imagen y el titulo de lo que hace 
 // 3 - Convertir la pagina en una "card", fijarse en tailwind css como hacerlo, con bordes, redondeados y todo
 // 4 - Crear un repositorio en github, y aprender como guardar esto ahi
@@ -23,7 +22,7 @@ const TipitoCard = () => {
         </div>
 
         <div class="flex justify-center">
-          <div class="pb-2 scale-75">
+          <div class="scale-75">
             <button>
               <a href="https://www.twitch.tv/tipitoenojado" target='_blank'>Twitch</a>
             </button>
@@ -32,7 +31,7 @@ const TipitoCard = () => {
 
               
         <div class="flex justify-center">
-          <div class="pb-2 scale-75">
+          <div class="scale-75">
             <button>
               <a href="https://www.youtube.com/@TipitoEnojado" target='_blank'>Youtube</a>
             </button>
