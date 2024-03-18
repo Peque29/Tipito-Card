@@ -14,11 +14,11 @@ import './TipiCard.css'
 const TipitoCard = () => {
   return (
     <>
-      <div class="flex justify-center">  
+      <div>  
           <img class="rounded-md w-80" src="https://tipitoenojado.com/wp-content/uploads/2023/08/Portada-04.jpg"></img>
       </div>
       <div>
-        <p class="flex font-thin text-wrap pt-5 pb-2">Creador de contenido,  enemigo de los fanatismos y fanático del sentido común. 
+        <p class="flex font-thin text-center justify-center pt-5 pb-2">Creador de contenido,  enemigo de los fanatismos y fanático del sentido común. 
         <br></br>Si te gusta ser la persona que esta informada y riendo en el medio de un incendio 
         <br></br>en lugar de ser el que corre con pánico, este es tu canal.</p>
       </div>

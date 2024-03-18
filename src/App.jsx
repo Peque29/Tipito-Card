@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div class="bg-black p-10 rounded-md shadow-2xl">  
+      <div class="bg-black rounded-md shadow-2xl grid justify-items-center p-8">  
         <h1 class="text-lg pb-5 font-bold">Tipito Enojado</h1>
         <TipitoCard/>
         <Redes/>

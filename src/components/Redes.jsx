@@ -3,7 +3,7 @@ import './Redes.css'
 const Redes = () => {
     return (
       <>
-        <div>
+        <div class="grid justify-items-center">
             <p class="text-sm p-3 pb-4">Redes</p>
             
             <div class="flex justify-center">
