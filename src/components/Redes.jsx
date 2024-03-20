@@ -3,8 +3,7 @@ import './Redes.css'
 const Redes = () => {
     return (
       <>
-        <div class="grid justify-items-center">
-            <p class="text-sm p-3 pb-4">Redes</p>
+        <div class="grid justify-items-center pt-3">
             
             <div class="flex justify-center">
                 <div class="scale-75">
@@ -31,20 +30,6 @@ const Redes = () => {
                     </button>
                 </div>
             </div>
-
-            <div class="flex justify-center">
-                <div class="scale-75">
-                    <button class="w-28">
-                        <a href="https://www.instagram.com/tipitoenojado/">Instagram</a>
-                    </button>
-                </div>
-                <div class="scale-75">
-                    <button class="w-28">
-                        <a href="https://www.tiktok.com/@tipitoenojadooficial">TikTok</a>
-                    </button>
-                </div>
-            </div>
-
         </div>
       </>
   );
